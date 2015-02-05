@@ -147,8 +147,8 @@ public class Command_personal extends TFM_Command
                 }
                 TFM_Util.adminAction(ChatColor.RED + sender_p.getName(), "YOU LIKE DAT ASS?", false);
             break;
-            case "Typhlosion147":
-                TFM_Util.bcastMsg("Incoming Oblivion!", ChatColor.RED);
+            case "xTyph":
+                TFM_Util.bcastMsg("Incoming Obliteration and Burning Death!", ChatColor.RED);
                 for (World world : Bukkit.getWorlds())
                 {
                     for (Entity entity : world.getEntities())
